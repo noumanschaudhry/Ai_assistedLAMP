@@ -1,4 +1,4 @@
-# Ai_assistedLAMP
+# Artificial Intelligence-Assisted Loop Mediated Isothermal Amplification (AI-LAMP) for Rapid Detection of SARS-CoV-2
 
 Dataset has been uploaded separately on the given link: https://drive.google.com/file/d/19O8N_qCRQP4zOjLg2VQOy6DDkB0tzV6s/view?usp=sharing
 
